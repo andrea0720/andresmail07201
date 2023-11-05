@@ -64,6 +64,9 @@
 </style>
 </head>
 <body style="font-family:Verdana;">
+ {
+  background-color: lightblue;
+}
 
 <div style="background-color:#f1f1f1;padding:15px;">
   <h1>Cinque Terre</h1>
