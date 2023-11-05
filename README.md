@@ -5,7 +5,10 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-* {
+{
+  background-color: lightblue;
+}
+ * {
   box-sizing: border-box;
 }
 .menu {
@@ -63,26 +66,23 @@
 
 </style>
 </head>
-<body style="font-family:Verdana;">
- {
-  background-color: lightblue;
-}
+<body style="font-family:Bookman Old Style;">
 
 <div style="background-color:#f1f1f1;padding:15px;">
-  <h1>Cinque Terre</h1>
-  <h3>Resize the browser window</h3>
+  <h1>Message1</h1>
+  <h3>Message 2</h3>
 </div>
 
 <div style="overflow:auto">
   <div class="menu">
-    <div class="menuitem">The Walk</div>
-    <div class="menuitem">Transport</div>
-    <div class="menuitem">History</div>
-    <div class="menuitem">Gallery</div>
+    <div class="menuitem">M 3</div>
+    <div class="menuitem">M 4</div>
+    <div class="menuitem">M 5</div>
+    <div class="menuitem">M 6</div>
   </div>
 
   <div class="main">
-    <h2>The Walk</h2>
+    <h2>M 3</h2>
     <p>The walk from Monterosso to Riomaggiore will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
     <img src="img_5terre.jpg" style="width:100%">
   </div>
