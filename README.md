@@ -47,6 +47,20 @@
     width: 100%;
   }
 }
+
+ h1 {
+        background-color: lightblue;
+      }
+      h2 {
+        background-color: rgb(142, 191, 66);
+      }
+      p {
+        background-color: hsl(300, 100%, 25%);
+      }
+      span {
+        background-color: rgba(255, 127, 80, 0.58);
+      }
+
 </style>
 </head>
 <body style="font-family:Verdana;">
